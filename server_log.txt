@@ -1,0 +1,45 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:27:01] weburl = "www.sa-mp.com"  (string)
+[11:27:01] password = ""  (string)
+[11:27:01] 
+[11:27:01] Server Plugins
+[11:27:01] --------------
+[11:27:01]  Loading plugin: crashdetect.so
+[11:27:08]   Failed.
+[11:27:08]  Loading plugin: whirlpool.so
+[11:27:09]   Failed.
+[11:27:09]  Loading plugin: pawncmd.so
+[11:27:10]   Failed.
+[11:27:10]  Loading plugin: SKY.so
+[11:27:10]   Failed.
+[11:27:10]  Loading plugin: sscanf.so
+[11:27:11]   Failed.
+[11:27:11]  Loading plugin: streamer.so
+[11:27:12]   Failed.
+[11:27:12]  Loading plugin: mysql_static.so
+[11:27:12]   Failed.
+[11:27:12]  Loading plugin: nativechecker.so
+[11:27:13]   Failed.
+[11:27:13]  Loading plugin: sampvoice.so
+[11:27:13]   Failed.
+[11:27:13]  Loading plugin: discord-connector
+[11:27:19]  >> plugin.dc-connector: v0.3.2 successfully loaded.
+[11:27:19]   Loaded.
+[11:27:19]  Loaded 1 plugins.
+
+[11:27:19] 
+[11:27:19] Filterscripts
+[11:27:19] ---------------
+[11:27:19]   Loading filterscript 'mappings.amx'...
+[11:27:19]   Loaded 1 filterscripts.
+
+[11:27:20] Script[gamemodes/Integraty.amx]: Run time error 19: "File or function is not found"
+[11:27:20] Number of vehicle models: 0
